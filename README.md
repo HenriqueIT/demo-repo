@@ -4,4 +4,4 @@ Some description!
 
 ## Subheader
 
-I successfully changed the file
+I successfully changed the file.
